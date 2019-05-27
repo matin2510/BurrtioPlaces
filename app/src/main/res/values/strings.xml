@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Burrito Places</string>
+    <string name="APP_KEY">AIzaSyB332cXAh25L63jI0M5qKhHerk2p8TR5lE</string>
+    <string name="title_activity_burrito_map">Map</string>
+</resources>
